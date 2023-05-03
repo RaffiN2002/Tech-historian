@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="nes" size="1.000000 1.777778" />
+    <ImageTarget name="floppydisk" size="1.000000 1.777778" />
+    <ImageTarget name="typewriter" size="1.000000 1.777778" />
+    <ImageTarget name="vhsplayer" size="1.000000 1.777778" />
+    <ImageTarget name="vhstape" size="1.000000 1.777778" />
+    <ImageTarget name="pager" size="1.000000 1.777778" />
+  </Tracking>
+</QCARConfig>
