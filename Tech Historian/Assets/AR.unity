@@ -291,7 +291,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 1024
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -319,7 +319,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 21.990753, y: 0, z: -549.753, w: 0}
+  m_margin: {x: 21.990753, y: -136.49335, z: -549.753, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -525,8 +525,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413086, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413086, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &756728187
 MonoBehaviour:
@@ -602,8 +602,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413086, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413086, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &804349141
 MonoBehaviour:
@@ -761,8 +761,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413086, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413086, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &906333197
 MonoBehaviour:
@@ -944,8 +944,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413086, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413086, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1142175310
 MonoBehaviour:
@@ -1170,8 +1170,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413025, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413025, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1557454044
 MonoBehaviour:
@@ -1246,8 +1246,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -277.32996, y: 426.56}
-  m_SizeDelta: {x: -554.33, y: 846.87}
+  m_AnchoredPosition: {x: -277.32996, y: 495.23}
+  m_SizeDelta: {x: -554.33, y: 984.22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1563587413
 MonoBehaviour:
@@ -1314,7 +1314,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 1024
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1392,8 +1392,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -2.413086, y: 436.4933}
-  m_SizeDelta: {x: 12.333, y: 872.985}
+  m_AnchoredPosition: {x: -2.413086, y: 493.67487}
+  m_SizeDelta: {x: 12.333, y: 987.344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1597068223
 MonoBehaviour:
@@ -1754,7 +1754,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1782,7 +1782,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 21.990753, y: 0, z: -549.753, w: 0}
+  m_margin: {x: 21.990753, y: -121.741486, z: -549.753, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2161,7 +2161,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -156.0765, y: 945.0004}
+  m_AnchoredPosition: {x: -160, y: 1092}
   m_SizeDelta: {x: 320, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1737349704
@@ -2293,8 +2293,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -277.32996, y: 426.56}
-  m_SizeDelta: {x: -554.33, y: 846.87}
+  m_AnchoredPosition: {x: -277.32996, y: 495.23}
+  m_SizeDelta: {x: -554.33, y: 984.22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1807013832
 MonoBehaviour:
@@ -3059,8 +3059,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -277.32996, y: 426.56}
-  m_SizeDelta: {x: -554.33, y: 846.87}
+  m_AnchoredPosition: {x: -0.08251953, y: 487.429}
+  m_SizeDelta: {x: 0.16492, y: 968.607}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2019809653
 MonoBehaviour:
@@ -3128,7 +3128,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 1024
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -3156,7 +3156,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 21.990753, y: 0, z: -549.753, w: 0}
+  m_margin: {x: 21.990753, y: 0, z: 14.665588, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3386,8 +3386,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -277.32996, y: 426.56}
-  m_SizeDelta: {x: -554.33, y: 846.87}
+  m_AnchoredPosition: {x: -277.32996, y: 480.47397}
+  m_SizeDelta: {x: -554.33, y: 954.708}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2119455612
 MonoBehaviour:
@@ -3409,17 +3409,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-
-
-    VHS (Video Home System) tape is a type of magnetic tape used for
-    recording and playing back analog video and audio signals. It was introduced
-    by JVC in the 1970s and quickly became the dominant consumer video format. VHS
-    tapes use a helical scan method to record video and audio signals onto a magnetic
-    tape, which is stored inside a plastic cassette. VHS tapes were widely used for
-    home movies, television shows, and movies until the emergence of digital video
-    formats in the late 1990s.'
+  m_text: VHS (Video Home System) tape is a type of magnetic tape used for recording
+    and playing back analog video and audio signals. It was introduced by JVC in
+    the 1970s and quickly became the dominant consumer video format. VHS tapes use
+    a helical scan method to record video and audio signals onto a magnetic tape,
+    which is stored inside a plastic cassette. VHS tapes were widely used for home
+    movies, television shows, and movies until the emergence of digital video formats
+    in the late 1990s.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3454,7 +3450,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 1024
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0

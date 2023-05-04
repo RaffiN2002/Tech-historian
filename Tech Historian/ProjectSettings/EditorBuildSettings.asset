@@ -9,26 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/AROptions.unity
-    guid: 0bc1858a9d3f328408882351dc8b848e
-  - enabled: 1
-    path: Assets/Floppydisk.unity
-    guid: 94593c2d82057a945876c3d73edc2b37
-  - enabled: 1
-    path: Assets/Nes.unity
-    guid: 0bf84fe6d744a16488380dd944d77990
-  - enabled: 1
     path: Assets/AR.unity
     guid: c7000574814af1f4791c5628b857c89f
-  - enabled: 1
-    path: Assets/Typewriter.unity
-    guid: ddfd16f8f12706042b1fbd90b96fa768
-  - enabled: 1
-    path: Assets/Vhsplayer.unity
-    guid: f10e02a89008606408489b4c6c80ec78
-  - enabled: 1
-    path: Assets/Vhstape.unity
-    guid: 0df0c43db6727bd49873bfac1b8eebae
   - enabled: 1
     path: Assets/About.unity
     guid: 8b570a506e46be14184e4841333a149b
