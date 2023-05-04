@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class menuscript : MonoBehaviour
 {
     public void toAR(){
-        SceneManager.LoadScene("AROptions");
+        SceneManager.LoadScene("AR");
     }
 
     public void exitButton(){
