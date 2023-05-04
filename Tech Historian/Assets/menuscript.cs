@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class menuscript : MonoBehaviour
 {
     public void toAR(){
-        SceneManager.LoadScene("toAR");
+        SceneManager.LoadScene("AROptions");
     }
 
     public void exitButton(){
@@ -17,4 +17,6 @@ public class menuscript : MonoBehaviour
     public void aboutButton(){
         SceneManager.LoadScene("About");
     }
+
+    
 }
